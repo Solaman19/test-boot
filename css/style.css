@@ -1,0 +1,43 @@
+.header_bg{
+    background-color: black;
+    min-height:  height: 107px;
+}
+
+.logo{padding-top: 23px;}
+.navbar{padding-top: 15px;}
+
+.nav li a{color: white !important;}
+
+.navbar_style{
+    background-color:transparent;
+    box-shadow: none;
+    background-image:none;
+    border: 0px;}
+
+.header_bg_img{
+    background: url(../images/slider.jpg) no-repeat;
+    min-height: 650px;
+    background-position: center center;
+    background-size: cover;
+    
+}
+.header_caption{
+    margin: 185px auto;
+    width: 36%}
+
+.header_caption h1{
+    color: white;
+    font-weight: bold;
+    font-size: 80px;
+    text-transform: uppercase;
+    }
+
+.header_caption .see_detail{
+    color: white;
+    border: 0px;
+    background-color: black;
+    padding: 15px 35px;
+    float: right;
+    margin-top: 30px;
+    text-transform: uppercase;
+}
